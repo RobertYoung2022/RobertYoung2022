@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 <h1>Hi, I'm Robert 👋🏾👨🏾‍💻</h1>
 
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertayoung2022&theme=nightowl&show_icons=true)](https://github.com/robertayoung2022/guthub-readme-stats)
 
 <p align="center">
   <img height="145em"align="center" src="http://github-readme-streak-stats.herokuapp.com?user=RobertYoung2022&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD5B28" />
