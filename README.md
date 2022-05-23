@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Robert Young
 
 <!-- ## Some of my Github stats
 
@@ -17,7 +17,7 @@
 </a>
 </p><br> -->
 
-### Hi there 👋, my name is Robert Young
+
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-2.jpeg)
 
