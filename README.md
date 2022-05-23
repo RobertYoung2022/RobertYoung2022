@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 ## Some of my Github stats
 
+<h1>Hi, I'm Robert 👋🏾👨🏾‍💻</h1>
+
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertayoung2022&theme=nightowl&show_icons=true)
+
 <p align="center">
   <img height="145em"align="center" src="http://github-readme-streak-stats.herokuapp.com?user=RobertYoung2022&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD5B28" />
 </p>
@@ -27,3 +31,5 @@ Here are some ideas to get you started:
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=RobertYoung2022&theme=dark&layout=compact&repo=convoychat&hide=stars,issues&custom_title=Robert's GitHub Stats" />
 </a>
 </p><br>
+
+
