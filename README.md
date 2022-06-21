@@ -25,7 +25,7 @@ I'm Robert! A Veteran and Full Stack Developer with a passion for the beauty of 
 
 Skills: SPRING / JAVA / JS / HTML / CSS / MYSQL
 
-- 🔭 I’m currently working on Happening Happy Hours 
+- 🔭 I’m currently working on Web3 Medium Clone 
 - 🌱 I’m currently learning Web3 Development - Moralis Academy 
 
 
