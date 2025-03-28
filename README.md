@@ -4,7 +4,7 @@
 
 ### Hey, I'm Bobby Yo 👋🏾
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVkNGFkMGNlN2IwMzA3ZDMxYTI3MzZhN2MwZTRmNDEzZTFjNzU0OCZjdD1n/2A75RyXVzzSI2bx4Gj/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVkNGFkMGNlN2IwMzA3ZDMxYTI3MzZhN2MwZTRmNDEzZTFjNzU0OCZjdD1n/2A75RyXVzzSI2bx4Gj/giphy.gif" width="60%" />
 
 I'm a **Web3 Developer, DeFi Enthusiast, AI Builder, and Veteran** with a love for simplicity, clean design, and building things that move people and markets. I turn abstract ideas into digital realities—from dApps to DeFi dashboards, AI agents to creative experiences for my daughter.
 
@@ -66,25 +66,6 @@ I'm a **Web3 Developer, DeFi Enthusiast, AI Builder, and Veteran** with a love f
 ---
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ3b3g4M2h6bDNibnl0b2w4a3U5d2tla2N5YWN1czJkMHUxaDNqYiZjdD1n/7Jf6qfugvVf7nEFfTU/giphy.gif" width="100%" />
-
----
-
-### 🔗 Let’s Connect
-
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/RobertYoung2022)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/rayoungjr/)
-[![Website](https://img.shields.io/badge/Portfolio-Coming%20Soon-blueviolet)](#)
-
----
-
-### 📊 GitHub Vibes (Dark Theme)
-
-<p align="center">
-  <img height="145em" src="http://github-readme-streak-stats.herokuapp.com?user=RobertYoung2022&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=DD5B28" />
-  <br />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertYoung2022&layout=compact&theme=dark&langs_count=6" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RobertYoung2022&show_icons=true&theme=dark&hide=stars,issues" />
-</p>
 
 ---
 
