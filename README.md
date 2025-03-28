@@ -61,7 +61,6 @@ I'm a **Web3 Developer, DeFi Enthusiast, AI Builder, and Veteran** with a love f
 - 🧒🏾 Proud girl dad building learning experiences for my daughter
 - 🧠 Obsessed with DeFi, crypto, and AI (I *will* be my own bank)
 - 🎧 DJ in another life — Apple Music is always spinning
-- 🌀 Known to overthink everything, but still ship like a boss
 
 ---
 
